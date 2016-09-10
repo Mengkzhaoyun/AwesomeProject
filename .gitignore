@@ -2,4 +2,4 @@ node_modules/
 .vscode/
 build.zip
 ios/.DS_Store
-*/*.xcuserstate
+ios/AwesomeProject.xcodeproj/project.xcworkspace/xcuserdata/
