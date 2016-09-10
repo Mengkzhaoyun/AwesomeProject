@@ -28,11 +28,11 @@
    *
    * Load cached code and images from AppHub.
    *
-   
+   */  
+  
   AHBuild *build = [[AppHub buildManager] currentBuild];
   jsCodeLocation = [build.bundle URLForResource:@"main"
                                   withExtension:@"jsbundle"];
-  */  
   
   RCTRootView *rootView = [[RCTRootView alloc] initWithBundleURL:jsCodeLocation
                                                       moduleName:@"AwesomeProject"
