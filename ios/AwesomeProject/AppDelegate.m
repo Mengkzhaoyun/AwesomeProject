@@ -31,7 +31,7 @@
                                   launchOptions:launchOptions];
   
   RCTRootView *rootView = [[RCTRootView alloc] initWithBridge:_bridge
-                                                   moduleName:@"AppHubStarterProject"
+                                                   moduleName:@"AwesomeProject"
                                             initialProperties:nil];
   
   self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
