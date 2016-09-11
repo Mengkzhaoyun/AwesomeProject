@@ -17,7 +17,7 @@ class AwesomeProject extends Component {
     return (
       <View style={styles.container}>      
         <Text style={styles.welcome}>
-          This is Mengk Build!
+          This is Mengk Build for windows!
         </Text>
         <Text style={styles.welcome}>
           Welcome to React Native!
