@@ -129,7 +129,6 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = AwesomeProject/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = AwesomeProject/main.m; sourceTree = "<group>"; };
 		146833FF1AC3E56700842450 /* React.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = React.xcodeproj; path = "../node_modules/react-native/React/React.xcodeproj"; sourceTree = "<group>"; };
-		1BB8B37A1D846E970055DF79 /* AwesomeProject copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "AwesomeProject copy-Info.plist"; path = "/Users/mengk/Downloads/AwesomeProject/ios/AwesomeProject copy-Info.plist"; sourceTree = "<absolute>"; };
 		1BB8B3891D846EA90055DF79 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = "Resources-iPad/AwesomeProject/Base.lproj/LaunchScreen.xib"; sourceTree = "<group>"; };
 		1BE548C21D840156002D643D /* AppHub.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = AppHub.xcodeproj; path = "../node_modules/.0.5.1@apphub/AppHub/AppHub.xcodeproj"; sourceTree = "<group>"; };
 		1BE548D71D840690002D643D /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
@@ -307,7 +306,6 @@
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				1BE548D61D840690002D643D /* Frameworks */,
-				1BB8B37A1D846E970055DF79 /* AwesomeProject copy-Info.plist */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
