@@ -9,6 +9,8 @@ node_modules/
 build/
 build.zip
 DerivedData
+.DS_Store
+ios/.DS_Store
 
 ## Various settings
 *.pbxuser
